@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="clipboard-manager">
+
+  <schema id="org.gnome.shell.extensions.clipboard-manager"
+          path="/org/gnome/shell/extensions/clipboard-manager/">
+
+    <key name="show-clipboard-shortcut" type="as">
+      <default>['&lt;Super&gt;v']</default>
+      <summary>Toggle clipboard history</summary>
+      <description>
+        Keyboard shortcut to toggle the clipboard history dropdown menu
+        in the GNOME Shell top bar.
+      </description>
+    </key>
+
+  </schema>
+
+</schemalist>

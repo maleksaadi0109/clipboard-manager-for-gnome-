@@ -1,0 +1,8 @@
+{
+    "name": "Clipboard Manager",
+    "description": "A clipboard history manager for GNOME Shell. Stores the last 10 copied items (text and images) and lets you recall them from the panel or with Super+V.",
+    "uuid": "clipboard@extension.com",
+    "url": "",
+    "shell-version": ["45", "46", "47", "48", "49", "50"],
+    "settings-schema": "org.gnome.shell.extensions.clipboard-manager"
+}
